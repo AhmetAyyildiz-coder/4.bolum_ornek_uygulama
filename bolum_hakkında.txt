@@ -1,0 +1,11 @@
+Bu örnek uygulamada bir unsplash api'ına request atıp oradan data alıcağız. 
+şimdilik bu dataları resim olarak kullanacağız. Bir resim galerisi misali. 
+Bir anahtar kelime ile ilgili olan resimler aratılacak. 
+
+Resim aratmasını bir search component yapıcak. Dönen dataları da bir image componenet e foreach ile atacağız. 
+Yani alt alta iki componente data aktarımı olan usestate kullanılan bir örnek olacaktır. 
+
+// içerisinde kullanılacaklar. 
+* React bootstrap 
+* useState hook 
+* Functional Components 
